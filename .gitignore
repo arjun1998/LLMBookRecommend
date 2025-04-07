@@ -1,0 +1,21 @@
+# Ignore virtual environments
+venv/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore environment files
+.env
+
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Ignore data files
+*.csv
+*.tsv
+*.parquet
+
+# Ignore images
+*.png
+
